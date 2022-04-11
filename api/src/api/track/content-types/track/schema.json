@@ -61,6 +61,12 @@
       "type": "uid",
       "targetField": "track_name",
       "required": true
+    },
+    "youtube": {
+      "type": "string"
+    },
+    "label": {
+      "type": "string"
     }
   }
 }

@@ -67,6 +67,9 @@
     },
     "label": {
       "type": "string"
+    },
+    "artists": {
+      "type": "string"
     }
   }
 }
